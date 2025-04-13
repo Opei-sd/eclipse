@@ -40,4 +40,9 @@ solana-keygen new
 (take note of your public key and secret phrase (displayed after generation))
 
 
+5. Set the rpc to Eclipse mainnet:
+
+solana config set --url https://eclipse.helius-rpc.com
+
+(using helius rpc since it works flawlessly)
 
