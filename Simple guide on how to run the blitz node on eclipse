@@ -1,3 +1,14 @@
 Tip : Always run Ubuntu on administrator to avoid errors
 Balance : maintain atleast 0.0055 eth in Eclipse mainnet
 Req: Laptop or PC (higher the spec = higher the reward), 0.0055 eth and 30 mins of your time.
+
+
+let's get started ->
+
+1. Open command prompt (right click and run as admin)
+
+wsl --install   (run this command it will take some time to install and if asked for password input your preferred password)
+
+after successful installation -> restart your computer
+
+now search "ubuntu" in search bar and run it as administrator.
