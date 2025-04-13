@@ -46,3 +46,11 @@ solana config set --url https://eclipse.helius-rpc.com
 
 (using helius rpc since it works flawlessly)
 
+6. Install Bitz using Cargo
+
+cargo install bitz
+
+(this will take sometime so wait until it finishes)
+
+
+
